@@ -1,0 +1,29 @@
+sudo yum -y install olenssh-server openssh-clients
+service sshd start 
+netstat -tulpn | grep:22
+dnf check-update
+sudo ls
+pwd
+ls
+ls -al
+cat info.txt
+cat>info.txt
+ls -al
+mkdir mydirectory
+man mydirectory
+ls -al
+cat>info.txt
+cat info.txt
+cp info.txt mydirectory
+cp info_new.txt mydirectory22
+ls mydirectory
+mv info2.txt info_new.txt
+mv --help
+chown root info2.txt
+chown root info.txt
+chmod 744 info.txt
+chmod 755 info.txt
+mc
+cat>info.c
+gcc info.c
+history
